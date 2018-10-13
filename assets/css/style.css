@@ -1,0 +1,6 @@
+body {background-image: url(../images/background.jpg);
+}
+p {}
+.crystal{width:130px; background-color:blue}
+#scoreTotal {font-size:30px}
+#numberToGuess {font-size:30px}
